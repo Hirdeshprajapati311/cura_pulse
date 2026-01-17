@@ -1,0 +1,5 @@
+ENDPOINT: https://fra.cloud.appwrite.io/v1
+PROJECT_ID: 68652d8b002d24bcd3ee
+API_KEY_LENGTH: 0
+API_KEY: UNDEFINED
+API_KEY_IS_CLEAN_ALPHANUM: false
